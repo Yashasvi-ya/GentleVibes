@@ -3,7 +3,7 @@ import { Route, Routes } from 'react-router-dom'
 import Home from "./pages/Home"
 import Login from './pages/Login'
 import Register from './pages/Register'
-import useDarkMode from 'use-dark-mode'
+// import useDarkMode from 'use-dark-mode'
 import { ThemeContext } from './context/ThemeContext'
 import Motivation from './pages/Motivation'
 
